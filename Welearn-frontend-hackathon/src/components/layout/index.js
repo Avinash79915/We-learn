@@ -46,22 +46,22 @@ const Layout = ({ children }) => {
         />
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
-        <title>MeTrack - Track your YouTube Learning</title>
+        <title>WeLearn - Track your YouTube Learning</title>
         <meta name="title" content="MeTrack - Track your YouTube Learning" />
         <meta
           name="description"
-          content="MeTrack provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
+          content="We Learn provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://www.metrack.tech/" />
         <meta
           property="og:title"
-          content="MeTrack - Track your YouTube Learning"
+          content="WeLearn - Track your YouTube Learning"
         />
         <meta
           property="og:description"
-          content="MeTrack provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
+          content="Welearn provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
         <meta
           property="og:image"
@@ -72,11 +72,11 @@ const Layout = ({ children }) => {
         <meta property="twitter:url" content="https://www.metrack.tech/" />
         <meta
           property="twitter:title"
-          content="MeTrack - Track your YouTube Learning"
+          content="WeLearn - Track your YouTube Learning"
         />
         <meta
           property="twitter:description"
-          content="MeTrack provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
+          content="MeLearn provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
         <meta
           property="twitter:image"

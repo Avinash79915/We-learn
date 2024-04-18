@@ -19,7 +19,7 @@ const Features = () => {
             </div>
             <div className="pt-4 bg-white collapse-content peer-checked:bg-blue-100">
               <p>
-                You can discuss your doubts in real-time on MeTrack. So, no
+                You can discuss your doubts in real-time on WeLearn. So, no
                 stopping after you encounter an error while following a
                 tutorial. You can even post code snippets in the discussions as
                 it is markdown supported.
@@ -56,7 +56,7 @@ const Features = () => {
         <div className="flex items-center justify-center w-full p-10 lg:w-1/2">
           <img
             alt="features"
-            src="https://cdn.discordapp.com/attachments/987256512118399026/991307617249021992/insta.png"
+            src="https://img.freepik.com/free-vector/business-man-working-hard-stock-financial-trade-market-diagram-vector-illustration-flat-design_1150-39773.jpg?w=740&t=st=1713113934~exp=1713114534~hmac=ad2c3a0e96b0e7368512529ccefe9459d2fedbed6cd66ae64dbba7fac888cf13"
             className="w-full"
           />
         </div>

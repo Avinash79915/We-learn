@@ -67,37 +67,15 @@ const Register = () => {
             className="object-contain w-24 h-12"
           />
           <h1 className="text-3xl font-bold tracking-tight text-center uppercase cursor-pointer">
-            Welcome to <span className="text-blue-500">ME</span>Track
+            Welcome to <span className="text-blue-500">We</span>Learn
           </h1>
         </a>
         <p className="mb-4 text-xs text-center">
-          Join Metrack for Free and explore the new learing experience
+          Join Welearn for Free and explore the new learing experience
         </p>
 
         <form onSubmit={handleSubmit(onSubmit)}>
-          <div className="form-control w-full">
-            <label className="label">
-              <span className="label-text text-text-white font-light">Username <span className="text-red-500">*</span></span>
-            </label>
-            <input type="text"
-              className={`w-full input input-bordered ${errors.username ? "input-error" : ""
-                }`}
-              placeholder="Type here"
-              {...register("username", {
-                required: true,
-              })}
-              onChange={(e) => setUsername(e.target.value)} value={username} required />
-            {
-              username.length > 0 && (isLoading ? <label className="label">
-                <span className="label-text-alt text-blue-500 font-bold flex justify-center items-center gap-1"> Checking Availability...</span>
-              </label> : !usernameAvailable ? <label className="label">
-                <span className="label-text-alt text-red-500 font-bold flex justify-center items-center gap-1"> {username} is not available</span>
-              </label> : <label className="label">
-                <span className="label-text-alt text-emerald-600 font-bold flex items-center justify-center gap-1"> {username} is available</span>
-              </label>)
-            }
-
-          </div>
+        
 
 
           <div className="w-full form-control">
