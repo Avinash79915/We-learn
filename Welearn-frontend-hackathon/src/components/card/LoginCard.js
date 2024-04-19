@@ -48,7 +48,7 @@ const LoginCard = () => {
           {errors.email && (
             <label className="label">
               <span className="text-red-500 label-text-alt">
-                Enter a valid Email Address!
+                Please Enter a valid Email Address!
               </span>
             </label>
           )}
