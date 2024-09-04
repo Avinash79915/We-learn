@@ -47,14 +47,14 @@ const Layout = ({ children }) => {
         <link rel="manifest" href="/site.webmanifest" />
         <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5" />
         <title>WeLearn - Track your YouTube Learning</title>
-        <meta name="title" content="MeTrack - Track your YouTube Learning" />
+        <meta name="title" content="We learn - Track your YouTube Learning" />
         <meta
           name="description"
           content="We Learn provides hand-picked YouTube courses, real-time discussions, sharing projects, and getting feedback on them. We believe in Build-in public and Proof of Work."
         />
 
         <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://www.metrack.tech/" />
+        <meta property="og:url" content="https://www.We learn.tech/" />
         <meta
           property="og:title"
           content="WeLearn - Track your YouTube Learning"
@@ -69,7 +69,7 @@ const Layout = ({ children }) => {
         />
 
         <meta property="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="https://www.metrack.tech/" />
+        <meta property="twitter:url" content="https://www.We learn.tech/" />
         <meta
           property="twitter:title"
           content="WeLearn - Track your YouTube Learning"

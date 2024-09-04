@@ -5,7 +5,7 @@ const Team = () => {
   return (
     <main className="flex flex-col items-center justify-center p-10 rounded-3xl">
       <section className="body-font">
-        <div className="container px-5 py-24 mx-auto">
+        <div className="container px-6 py-24 mx-auto">
           <div className="flex flex-col w-full mb-20 text-center">
             <h1 className="mb-4 text-3xl font-bold text-center lg:text-5xl">
               Our Team 😎
@@ -16,7 +16,7 @@ const Team = () => {
             </p>
           </div>
           <div className="flex flex-wrap items-center justify-center -m-4">
-            <div className="w-full p-4 lg:w-1/4">
+            <div className="w-full p-4 lg:w-1/5">
               <div className="flex flex-col items-center h-full text-center">
                 <img
                   alt="Avinash-kushwaha"
@@ -50,7 +50,7 @@ const Team = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full p-4 lg:w-1/4">
+            <div className="w-full p-4 lg:w-1/5">
               <div className="flex flex-col items-center h-full text-center">
                 <img
                   alt="Shubhankar-kumar"
@@ -81,7 +81,7 @@ const Team = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full p-4 lg:w-1/4">
+            <div className="w-full p-4 lg:w-1/5">
               <div className="flex flex-col items-center h-full text-center">
                 <img
                   alt="Ketan Pal"
@@ -117,31 +117,30 @@ const Team = () => {
             </div>
           </div>
           <div className="flex flex-wrap items-center justify-center -m-4 mt-5">
-            <div className="w-full p-4 lg:w-1/4">
+            <div className="w-full p-4 lg:w-1/5">
               <div className="flex flex-col items-center h-full text-center">
                 <img
-                  alt="Mani Thakur"
+                  alt="Tushar gupta"
                   className="flex-shrink-0 object-cover object-center w-full h-56 mb-4 rounded-lg"
-                  src="https://media.licdn.com/dms/image/C4D03AQF587clIlxFMw/profile-displayphoto-shrink_400_400/0/1663952923894?e=1718236800&v=beta&t=8EEM8lvWEVui8Xp-ZdQ_FsnRNbske9tpONmw1btyuVo"
+                  src="https://avatars.githubusercontent.com/u/76150446?v=4"
                 />
                 <div className="w-full">
                   <h2 className="text-lg font-medium title-font textWhite">
-                    Mani Thakur
+                    Tushar gupta
                   </h2>
-                  <h3 className="mb-3 text-gray-500">Full-Stack Developer</h3>
+                  <h3 className="mb-3 text-gray-500">Frontend Developer</h3>
                   <p className="mb-4">
-                    Friendly neighborhood developer. Helping people turn their
-                    ideas into sites & apps that work.
+                  Tech-savvy professional skilled in data analysis, software development, and business processes. Passionate about problem-solving and driving business growth.
                   </p>
                   <span className="flex flex-wrap items-center justify-center gap-2 text-xl">
                     <a
-                      href="https://github.com/ManiThakur?tab=repositories"
+                      href="https://github.com/TUSHARG146"
                       target="_blan"
                     >
                       <FaGithub />
                     </a>
                     <a
-                      href="https://www.linkedin.com/in/mani-thakur-3973bb200"
+                      href="https://www.linkedin.com/in/tusharrg/"
                       target="_blan"
                     >
                       <FaLinkedinIn />
@@ -151,7 +150,7 @@ const Team = () => {
                 </div>
               </div>
             </div>
-            <div className="w-full p-4 lg:w-1/4">
+            <div className="w-full p-4 lg:w-1/5">
               <div className="flex flex-col items-center h-full text-center">
                 <img
                   alt="yash pokharna"

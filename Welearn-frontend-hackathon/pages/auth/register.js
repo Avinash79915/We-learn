@@ -62,7 +62,7 @@ const Register = () => {
       <div className="w-full p-6 lg:w-2/5">
         <a className="flex flex-col items-center gap-2 mb-2">
           <img
-            alt="metrack-logo"
+            alt="We learn-logo"
             src="/logo.png"
             className="object-contain w-24 h-12"
           />

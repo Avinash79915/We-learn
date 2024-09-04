@@ -1,15 +1,14 @@
 <h1 align="center">Me-Track Frontend Application</h1>
 <p align="center"> This is a Linode X Hashnode project built using Next.js and Express deployed on Linode. </p>
 
-![Me-Track](https://user-images.githubusercontent.com/73209159/176242823-405d5f2f-ba4b-45ee-b898-b3ab110fd075.png)
+![WE-learn]()
 
 ## Links
 
-GitHub: [Front-End](https://github.com/mukulrajpoot262610/metrack-frontend-hackathon) / [Back-End](https://github.com/alsoamit/metrack-api) / [Admin-Panel](https://github.com/mukulrajpoot262610/metrack-admin)
+GitHub: [Front-End](https://github.com/mukulrajpoot262610/We learn-frontend-hackathon) / [Back-End](https://github.com/alsoamit/We learn-api) / [Admin-Panel](https://github.com/mukulrajpoot262610/We learn-admin)
 
-Read our [Hashnode Article](https://blogs.mukulrajpoot.com/metrack-collaborative-youtube-learning#comments-list)
 
-Deployed Links: [Front-End](https://metrack.tech) / [Back-End](https://api.metrack.tech) / [Admin-Panel](https://admin.metrack.tech)
+
 
 ## The Problem
 
@@ -23,7 +22,7 @@ The idea is to build a collaborative website where people can share their projec
 Don't forget, engagement with the community is very important to learn any skill faster.
 
 ## The Solution
-MeTrack is a website where you can find top-rated tech videos and tutorials in the form of a course.
+We learn is a website where you can find top-rated tech videos and tutorials in the form of a course.
 
 This is how we solve this problem for our fellow developers who are learning to code.
 
@@ -39,14 +38,14 @@ This is how we solve this problem for our fellow developers who are learning to 
 
 In other words,
 
-MeTrack helps you sail through the endless ocean of tech resources on YouTube.
+We learn helps you sail through the endless ocean of tech resources on YouTube.
 <div align="center">
   
 Isn't it amazing?🤩
   
 ![Screenshot 2022-06-27 221132](https://media.giphy.com/media/PNuPpI1yRcdDjvpSEs/giphy.gif)
 
-We are already accepting signups. Go [Register](https://metrack.tech) Now
+
 
 </div>
 
@@ -71,13 +70,13 @@ We are already accepting signups. Go [Register](https://metrack.tech) Now
 
 ## Demo Development
 
-Clone, install and setup the Rest API first from the [backend repo](https://github.com/alsoamit/metrack-api-hackathon) on port `3001`. 
+
 
 Clone and install the Frontend. 
 
 ```
-git clone git@github.com:mukulrajpoot262610/metrack-frontend-hackathon.git
-cd metrack-frontend-hackathon
+git clone git@github.com:mukulrajpoot262610/We learn-frontend-hackathon.git
+cd We learn-frontend-hackathon
 yarn install
 ```
 
@@ -96,11 +95,11 @@ yarn dev
 
 ## Contributing
 
-MeTrack is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed in the [issues](https://github.com/mukulrajpoot262610/metrack-frontend-hackathon/issues) tab if any. 
+We learn is an open source project, and contributions of any kind are welcome and appreciated. Open issues, bugs, and feature requests are all listed in the [issues](https://github.com/mukulrajpoot262610/We learn-frontend-hackathon/issues) tab if any. 
 
 Feel free to make feature requests. Easy bugs and features will be tagged with the `good first issue` label. 
 
-View [CONTRIBUTING.md](https://github.com/mukulrajpoot262610/metrack-frontend-hackathon/blob/main/CONTRIBUTING.md) to learn about the style guide, folder structure, scripts, and how to contribute. 
+View [CONTRIBUTING.md](https://github.com/mukulrajpoot262610/We learn-frontend-hackathon/blob/main/CONTRIBUTING.md) to learn about the style guide, folder structure, scripts, and how to contribute. 
 
 ## Contributors
 
@@ -109,7 +108,7 @@ View [CONTRIBUTING.md](https://github.com/mukulrajpoot262610/metrack-frontend-ha
 
 ## License 
 
-This project is open source and available under the [MIT License](https://github.com/mukulrajpoot262610/metrack-frontend-hackathon/blob/main/LICENSE). 
+This project is open source and available under the [MIT License](https://github.com/mukulrajpoot262610/We learn-frontend-hackathon/blob/main/LICENSE). 
 
 ## Attribution
 

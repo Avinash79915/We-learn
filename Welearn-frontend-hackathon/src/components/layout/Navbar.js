@@ -37,7 +37,7 @@ export default function Navbar() {
           <Link href="/">
             <a className="flex items-center gap-2">
               <img
-                alt="metrack-logo"
+                alt="We learn-logo"
                 src="/logo.png"
                 className="object-contain w-12 h-6"
               />
